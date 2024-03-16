@@ -19,7 +19,7 @@ This project consists of a client and a server. Follow the instructions below to
     npm run dev
     ```
 
-The client will be running at `http://localhost:3000`.
+The client will be running at `http://localhost:3001`.
 
 ## Running the Server
 

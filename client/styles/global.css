@@ -12,3 +12,15 @@ body {
 ::after {
   border-width: 0;
 }
+
+@media (max-width: 640px) {
+  body {
+    @apply text-sm;
+  }
+}
+
+@media (min-width: 641px) {
+  body {
+    @apply text-base;
+  }
+}
